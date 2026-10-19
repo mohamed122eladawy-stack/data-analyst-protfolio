@@ -1,16 +1,17 @@
-# Customer Data Cleaning & Segmentation (Python + Excel)
-Cleans a messy customer file (460 rows, fictional) and segments customers.
+# PDF Invoices -> Excel Extractor (Python)
+Extracts data from PDF invoices and exports a clean Excel file.
 
-**Problems handled**
-- Extra spaces / mixed name casing, city spelling variants (Cario, Alex, ...)
-- Phone numbers in many formats -> standard 01XXXXXXXXX, invalid ones flagged
-- Invalid emails, mixed date formats, money stored as text ("EGP 5,000")
-- Duplicate customers removed (29 found), kept in a separate sheet for audit
-
-**Output (Customers_Cleaned.xlsx):** Quality Report, Cleaned Data, Segments (VIP / Regular / Low value), By City, Removed Duplicates, Raw Data.
+**Features**
+- Reads all PDFs in a folder (pdfplumber), extracts header fields + line-item tables
+- Validates each invoice: sum of lines must equal Grand Total
+- Skips broken files and logs them in an Errors sheet
+- Output sheets: Invoices, Line Items, By Customer
 
 **Run**
 ```
-python make_messy_data.py
-python clean_customers.py customers_raw.csv Customers_Cleaned.xlsx
+pip install pdfplumber pandas openpyxl reportlab
+python make_sample_invoices.py        # creates 30 fake invoices (optional)
+python pdf_to_excel.py sample_invoices output/invoices_extracted.xlsx
 ```
+Result on sample: 30 files, 107 line items, 30/30 totals validated.
+Note: the regex patterns in `HEADER_PATTERNS` must be adapted to your own invoice layout.
