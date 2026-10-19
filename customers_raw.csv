@@ -1,0 +1,461 @@
+customer_id,name,email,phone,city,signup_date,orders,total_spend
+1044,Youssef Ali,Youssef.Ali88@gmail.com,0107-0673491,,28-1-2025,7.0,"EGP 22,346"
+2030,  MOHAMED IBRAHIM ,Mohamed.Ibrahim33@gmail.com,01258889263,Giza,24/07/2025,,"6,068"
+1282,  hassan IBRAHIM ,Hassan.Ibrahim34gmail.com,+201570258199,Cairo,04/12/2025,4.0,10185
+2008,AHMED  NABIL,,,Alexandria,15/12/2025,19.0,"EGP 2,299"
+1336,Tarek  Farouk,,,Tanta,8-11-2025,1.0,"11,269"
+1225,  laila NABIL , Laila.Nabil56@outlook.com ,,Gizah,15/02/2025,14.0,12459 EGP
+1307,  omar IBRAHIM ,,01135223726,Cario,2025-07-19,,"EGP 22,604"
+1035,Youssef Adel,Youssef.Adel29yahoo.com,+201278475368,Alexandria,12/02/2025,,"EGP 10,765"
+1239,Mona  Adel,Mona.Adel90@yahoo.com,0106-5099736,,1-3-2025,,24567
+1139,  hassan IBRAHIM ,,0101-5095798,Mansoura,2025-02-26,14.0,
+1414,  mona IBRAHIM ,,0158 873 8200,mansoura,05/01/2025,,"7,247"
+1228,  tarek KHALED ,Tarek.Khaled99outlook.com,015072482,,2025-12-15,29.0,"EGP 12,671"
+1302,Salma Samir,,01223886191,TANTA,11/06/2025,,
+1140,Tarek  Khaled,TAREK.KHALED35@GMAIL.COM,0123 805 3503,Gizah,2025-05-09,,"EGP 1,960"
+1142,  omar HASSAN ,Omar.Hassan51@gmail.com,011587571,,19-4-2025,30.0,
+1270,Youssef Farouk, Youssef.Farouk41@outlook.com ,0105 696 1877,Giza,2025-01-15,3.0,824 EGP
+1091,Omar  Ali,,,Tanta,10-5-2025,23.0,"EGP 24,556"
+1057,Hassan  Samir,Hassan.Samir67gmail.com,010717818,Cairo,10-10-2025,,"9,271"
+1220,Youssef  Hassan,YOUSSEF.HASSAN75@YAHOO.COM,0150 876 2955,ALEXANDRIA,12-11-2025,28.0,6452
+1301,Tarek Ibrahim, Tarek.Ibrahim28@outlook.com ,,aswan,25/11/2025,,23059 EGP
+1224,Hassan  Nabil, Hassan.Nabil87@gmail.com ,,Tanta,24/02/2025,3.0,12540 EGP
+1123,Ahmed  Saleh,,,Giza,26/08/2025,22.0,"EGP 2,574"
+1245,Tarek  Nabil, Tarek.Nabil71@yahoo.com ,+201089435705,ASWAN,20/03/2025,,"7,975"
+1100,Karim Adel,Karim.Adel78@outlook.com,0120-1349465,Alexandria,10-2-2025,22.0,16506
+1076,  sara MOSTAFA ,SARA.MOSTAFA75@OUTLOOK.COM,0156 202 1034,Cario,2025-12-18,,13939 EGP
+1299,  salma ALI ,,+201274630256,CAIRO,26/07/2025,,2223
+1041,  laila SAMIR ,Laila.Samir29@yahoo.com,012030757,Cairo,2025-03-14,,
+2015,  SARA IBRAHIM ,,0123 293 8498,Cairo,2025-05-25,9.0,
+1413,Sara  Ibrahim, Sara.Ibrahim59@yahoo.com ,01545735668,Alexandria,2025-10-08,18.0,"EGP 7,335"
+1377,Hassan Samir,Hassan.Samir39@outlook.com,0112 374 5251,Alexandria,2025-02-13,,"EGP 14,640"
+1397,  youssef ADEL , Youssef.Adel53@gmail.com ,0154 057 1233,Tanta,5-8-2025,,
+1373,  mona IBRAHIM ,Mona.Ibrahim17gmail.com,015618499,ALEXANDRIA,2025-11-15,,"EGP 15,672"
+1316,  hassan NABIL ,HASSAN.NABIL46@YAHOO.COM,+201241831900,Tanta,17/05/2025,16.0,17665 EGP
+1292,Karim  Ibrahim,,015060901,Tanta,7-5-2025,4.0,6380 EGP
+1151,  ahmed FAROUK ,Ahmed.Farouk38outlook.com,,Aswan,28/07/2025,,12764 EGP
+1278,Tarek  Ali,Tarek.Ali66outlook.com,+201242479508,Cairo,13/07/2025,26.0,
+1305,Omar Samir,Omar.Samir5@gmail.com,+201242375471,Giza,20-3-2025,19.0,"3,631"
+1118,Salma Saleh,Salma.Saleh84@gmail.com,0112 591 4797,cairo,28/10/2025,15.0,
+1361,  karim NABIL ,,+201166847175,Mansoura,13/04/2025,29.0,5237 EGP
+1022,Sara Ibrahim,Sara.Ibrahim31@gmail.com,,,27/06/2025,,"EGP 3,379"
+1219,Youssef Farouk,YOUSSEF.FAROUK73@OUTLOOK.COM,015057338,Tanta,9-5-2025,16.0,19840 EGP
+1367,Hassan Samir,Hassan.Samir33@gmail.com,0158 081 2088,Mansoura,02/06/2025,30.0,"22,088"
+2009,SALMA  SALEH, Salma.Saleh53@yahoo.com ,0121-4128609,,04/05/2025,16.0,
+1349,Mona  Farouk, Mona.Farouk44@outlook.com ,,,03/05/2025,,"EGP 22,835"
+1237,Salma Ibrahim,Salma.Ibrahim39@yahoo.com,01011728514,Mansoura,2025-09-03,,11287
+1313,Hassan Farouk,,01107382189,Mansoura,28-12-2025,27.0,"EGP 3,657"
+1242,Tarek  Ibrahim, Tarek.Ibrahim77@outlook.com ,01537140497,ALEXANDRIA,05/11/2025,,"18,323"
+1351,  youssef SAMIR ,YOUSSEF.SAMIR73@GMAIL.COM,010398754,GIZA,07/03/2025,9.0,17932
+1380,  mona NABIL ,Mona.Nabil67gmail.com,,,7-6-2025,,"6,380"
+1406,  mohamed IBRAHIM ,Mohamed.Ibrahim31yahoo.com,0114 231 9191,El Mansoura,15-4-2025,,
+1124,Laila  Ibrahim,LAILA.IBRAHIM36@YAHOO.COM,01008579612,,10/05/2025,,"10,138"
+1322,  tarek FAROUK ,Tarek.Farouk83@gmail.com,+201002556123,aswan,01/07/2025,1.0,"15,490"
+1051,Mona Adel, Mona.Adel34@gmail.com ,,Aswan,25/10/2025,,21227
+1109,  omar HASSAN ,OMAR.HASSAN84@OUTLOOK.COM,01238495318,,22-10-2025,,22685 EGP
+1053,Sara Ali,Sara.Ali65@yahoo.com,+201263158692,Mansoura,24/11/2025,19.0,"17,443"
+1067,Nour  Farouk, Nour.Farouk89@gmail.com ,015234876,El Mansoura,2025-06-08,,"EGP 23,972"
+1303,  mohamed HASSAN ,,01085367557,Mansoura,26-3-2025,8.0,"5,109"
+2005,MOHAMED FAROUK,,015357892,,6-10-2025,,8987 EGP
+1328,  mohamed ADEL ,Mohamed.Adel31@outlook.com,+201553889033,Mansoura,07/06/2025,,"EGP 12,381"
+1192,Youssef  Ali,Youssef.Ali51@yahoo.com,015273317,,17-2-2025,,"17,783"
+1162,Sara  Farouk,SARA.FAROUK63@YAHOO.COM,0112-1898996,Mansoura,21/04/2025,,"5,968"
+1158,Nour Nabil,,,Alexandria,10/05/2025,13.0,"22,413"
+2024,  MONA ADEL ,Mona.Adel68outlook.com,01131065910,Aswan,2-7-2025,,"8,633"
+1072,  omar NABIL , Omar.Nabil3@gmail.com ,0113-8086038,alexandria,25-11-2025,,7687 EGP
+2002,  LAILA IBRAHIM , Laila.Ibrahim91@gmail.com ,0104-1787029,Alexandria,02/08/2025,,2272
+1187,Hassan  Samir,Hassan.Samir92yahoo.com,0113-8902077,Giza,15-1-2025,9.0,16003
+1183,Youssef  Hassan,YOUSSEF.HASSAN78@OUTLOOK.COM,0129-7793093,ASWAN,13-11-2025,,2243
+2021,YOUSSEF  HASSAN,Youssef.Hassan77@gmail.com,,El Mansoura,2025-11-09,15.0,6846
+1048,Mohamed Khaled,Mohamed.Khaled33outlook.com,+201193839031,tanta,16-4-2025,,
+1010,Tarek  Hassan,Tarek.Hassan91gmail.com,010607909,Tanta,2025-01-20,3.0,"EGP 22,650"
+1198,  sara IBRAHIM ,,0123 293 8498,Cairo,2025-05-25,9.0,
+1128,  sara FAROUK ,,01298608132,,2025-10-05,,"EGP 22,666"
+1285,  nour SAMIR ,Nour.Samir96gmail.com,0126-4818454,Cairo,2025-09-25,30.0,"15,361"
+2037,  AHMED NABIL ,Ahmed.Nabil78outlook.com,0122-5762292,Aswan,20-6-2025,12.0,
+1054,Mohamed Ali, Mohamed.Ali16@outlook.com ,+201205217786,Aswan,23-6-2025,8.0,"9,902"
+1251,Ahmed Adel,AHMED.ADEL54@OUTLOOK.COM,015011962,tanta,02/02/2025,,
+1175,Sara  Hassan,Sara.Hassan3@outlook.com,0110-6168715,Mansoura,17/05/2025,26.0,
+2039,MOHAMED  ALI,,012181026,Gizah,19-7-2025,19.0,1474 EGP
+1405,Tarek Khaled,,0126-7866420,Tanta,10-10-2025,,
+1214,Mohamed  Adel,,0118-4507208,Giza,2025-02-15,1.0,24767
+1050,Mona  Mostafa,Mona.Mostafa10@yahoo.com,01269902367,Aswan,17/03/2025,,"21,773"
+1099,Salma Adel,Salma.Adel87gmail.com,01188705691,mansoura,19/12/2025,,"EGP 11,983"
+1141,Omar Farouk,Omar.Farouk35@gmail.com,0114 897 8366,Aswan,09/09/2025,15.0,
+2036,YOUSSEF FAROUK, Youssef.Farouk41@outlook.com ,0105 696 1877,Giza,2025-01-15,3.0,824 EGP
+1150,Mohamed Farouk,MOHAMED.FAROUK82@OUTLOOK.COM,0152 698 1607,Giza,2025-01-20,,"EGP 17,748"
+1354,  salma IBRAHIM ,SALMA.IBRAHIM63@GMAIL.COM,012709453,TANTA,24-10-2025,,
+1231,Laila  Khaled,Laila.Khaled97gmail.com,0156-1341636,Giza,2025-01-27,,20823
+1063,Omar  Saleh,,012930269,Cairo,28-12-2025,30.0,12127 EGP
+1153,Sara  Saleh,SARA.SALEH4@YAHOO.COM,,Mansoura,21/06/2025,16.0,17969 EGP
+1344,Sara  Saleh,Sara.Saleh47yahoo.com,01226851240,Tanta,2025-04-26,27.0,
+1260,Tarek Khaled,,0102 513 1083,,3-6-2025,,"EGP 2,204"
+1171,Omar  Mostafa,,0120 732 1336,Cairo,2025-08-25,,6239
+1154,Mohamed Farouk,,015357892,,6-10-2025,,8987 EGP
+1284,Youssef Saleh,YOUSSEF.SALEH66@YAHOO.COM,015281570,,09/01/2025,,"9,260"
+1152,Mohamed  Samir,Mohamed.Samir54outlook.com,,Cairo,2025-10-09,,16036 EGP
+1019,Ahmed  Samir, Ahmed.Samir52@outlook.com ,+201087664377,,14/06/2025,,"3,254"
+1321,Mohamed Nabil, Mohamed.Nabil67@outlook.com ,01203556325,,9-7-2025,,"12,261"
+1396,Omar Ibrahim, Omar.Ibrahim45@outlook.com ,0111-7235441,Aswan,2025-09-08,20.0,"EGP 8,363"
+1186,Sara  Ali,Sara.Ali21@outlook.com,01284076104,,06/04/2025,,"EGP 4,605"
+1117,Mona Adel,MONA.ADEL31@GMAIL.COM,+201221250145,Al Qahira,04/10/2025,,12399
+1311,  nour HASSAN ,Nour.Hassan88outlook.com,0151-8725729,Giza,2025-10-24,,18566
+1343,Ahmed  Hassan,,0110 881 3647,,2025-01-22,23.0,"EGP 4,682"
+1001,  youssef SAMIR ,YOUSSEF.SAMIR66@OUTLOOK.COM,0111-7421809,,21-8-2025,20.0,
+1061,  karim MOSTAFA ,Karim.Mostafa55gmail.com,0116 432 7970,,15/07/2025,23.0,
+1280,  tarek KHALED ,Tarek.Khaled39outlook.com,015013948,,05/04/2025,,2875
+1364,  karim IBRAHIM ,Karim.Ibrahim48@outlook.com,,Alexandria,11-9-2025,,"EGP 13,207"
+1273,Karim  Ibrahim,KARIM.IBRAHIM88@OUTLOOK.COM,0154-7432842,Mansoura,2025-06-15,,
+1102,Karim  Samir,Karim.Samir62yahoo.com,0116 761 7511,Cairo,27-11-2025,23.0,"EGP 2,934"
+1034,Omar Samir,Omar.Samir55outlook.com,0106 997 7401,,22-4-2025,,10821
+1249,Ahmed  Samir,,+201170394809,Aswan,19/02/2025,24.0,"21,175"
+1169,Laila Farouk,,0105 263 1072,,08/02/2025,,"19,392"
+1353,  mohamed NABIL ,Mohamed.Nabil10@yahoo.com,01294284703,Aswan,26/02/2025,15.0,"EGP 5,443"
+2023,OMAR  FAROUK, Omar.Farouk44@yahoo.com ,01047414506,aswan,10/10/2025,,"EGP 16,166"
+1185,  hassan HASSAN ,Hassan.Hassan54outlook.com,0128 516 5492,,2025-12-13,12.0,
+1340,Laila  Samir,Laila.Samir32yahoo.com,,Mansoura,03/05/2025,10.0,"4,262"
+1360,Mohamed Khaled,MOHAMED.KHALED6@YAHOO.COM,0124-5531850,Mansoura,19-7-2025,,1574 EGP
+1133,Laila  Saleh, Laila.Saleh99@gmail.com ,0106-5641963,Gizah,7-5-2025,,"EGP 18,657"
+1404,Mona Samir,Mona.Samir24@outlook.com,+201559155367,Alexandria,18/02/2025,,288 EGP
+1177,Ahmed  Adel,Ahmed.Adel49outlook.com,+201098107735,,19/02/2025,,"EGP 23,443"
+1056,Laila  Ali,,,Alexandria,17-4-2025,,"EGP 11,175"
+1223,Tarek Hassan,Tarek.Hassan19outlook.com,01534845553,Tanta,24-9-2025,22.0,
+1202,Ahmed Ibrahim,AHMED.IBRAHIM23@OUTLOOK.COM,0128 788 3419,,9-10-2025,25.0,"20,268"
+1415,  nour SAMIR ,,0112 565 3104,Tanta,2025-11-09,,"EGP 8,298"
+1235,Mona Ibrahim,Mona.Ibrahim74yahoo.com,,,20/09/2025,,19384 EGP
+1376,Mona  Ali,MONA.ALI48@OUTLOOK.COM,0125 945 1768,Alexandria,1-2-2025,,"20,584"
+1416,Karim  Khaled,Karim.Khaled65@outlook.com,01101970929,Cairo,20/11/2025,,"9,665"
+1163,  hassan ALI ,Hassan.Ali46yahoo.com,0104-6591249,Tanta,4-11-2025,5.0,"EGP 9,621"
+1108,  omar SAMIR ,Omar.Samir63gmail.com,011628291,giza,23-11-2025,,
+1049,  hassan ALI ,,0108 425 9210,Alexandria,2025-11-12,,
+1300,  ahmed IBRAHIM ,Ahmed.Ibrahim22outlook.com,01176004404,cairo,2025-03-08,,4105 EGP
+1043,Mohamed  Khaled,MOHAMED.KHALED39@GMAIL.COM,0153 086 8724,Aswan,2025-05-13,,22555
+1116,  hassan IBRAHIM ,Hassan.Ibrahim72@outlook.com,0106-1622132,Mansoura,11/04/2025,5.0,"EGP 1,904"
+1027,Karim  Hassan,KARIM.HASSAN14@OUTLOOK.COM,010360144,,17/09/2025,17.0,
+1350,  mona SAMIR ,Mona.Samir50gmail.com,01231195748,,05/05/2025,,
+1089,Tarek Ibrahim, Tarek.Ibrahim22@outlook.com ,01045995430,Giza,7-12-2025,,4430 EGP
+1196,  tarek ALI ,Tarek.Ali65@yahoo.com,01021816121,,03/10/2025,18.0,"EGP 4,957"
+1283,  laila ALI ,LAILA.ALI54@YAHOO.COM,0111-6328971,mansoura,22/01/2025,,18124
+2000,MONA  FAROUK, Mona.Farouk44@outlook.com ,,,03/05/2025,,"EGP 22,835"
+1130,Nour  Nabil,NOUR.NABIL32@YAHOO.COM,,Aswan,24/07/2025,20.0,
+1013,  sara MOSTAFA ,Sara.Mostafa45@gmail.com,0154-3668759,Giza,2025-06-03,9.0,"EGP 3,897"
+1382,Youssef Nabil, Youssef.Nabil88@yahoo.com ,,,28/12/2025,,"3,005"
+1080,Sara  Nabil,Sara.Nabil7@gmail.com,+201250841870,Aswan,2025-02-12,,22312
+1077,Ahmed Samir,Ahmed.Samir48gmail.com,+201529638427,El Mansoura,18/02/2025,,"EGP 7,529"
+1331,  hassan SALEH ,HASSAN.SALEH8@GMAIL.COM,+201183709241,Giza,1-12-2025,,8256
+1090,Omar Farouk,Omar.Farouk10outlook.com,+201272811586,GIZA,2025-08-19,10.0,"EGP 20,278"
+1199,Salma  Adel,Salma.Adel75gmail.com,0109-9331132,Giza,07/05/2025,29.0,10375
+1312,Laila  Saleh,Laila.Saleh1outlook.com,,,28/11/2025,27.0,
+1227,Youssef Hassan,,0159-6157377,Alexandria,2025-04-17,23.0,17875
+1025,Tarek  Farouk, Tarek.Farouk25@outlook.com ,+201162585626,ASWAN,2025-12-06,,9359
+1366,  salma IBRAHIM ,Salma.Ibrahim63yahoo.com,0120 640 8259,Alexandria,28/09/2025,29.0,
+1287,Laila  Saleh, Laila.Saleh81@yahoo.com ,01054442290,,1-3-2025,20.0,18661 EGP
+1368,Mohamed  Adel,,011204989,,2025-07-09,,"EGP 24,306"
+1156,Ahmed Khaled,Ahmed.Khaled21outlook.com,0105 568 9308,Giza,15/05/2025,,19973 EGP
+1007,Mona  Samir, Mona.Samir50@yahoo.com ,0100-8436469,,2025-05-17,30.0,1753
+1011,  laila ALI ,,+201088049170,,04/12/2025,,"EGP 14,635"
+1293,Salma Ali,Salma.Ali88@outlook.com,01283557278,TANTA,2025-08-20,6.0,"13,601"
+1263,  mohamed KHALED , Mohamed.Khaled99@yahoo.com ,,,2025-01-03,17.0,"EGP 2,975"
+1082,  laila NABIL ,Laila.Nabil36gmail.com,0112 302 8432,Alexandria,2025-02-05,,8871 EGP
+1334,  laila ADEL ,,012366117,aswan,2-9-2025,,"EGP 14,133"
+1248,  omar ALI , Omar.Ali34@outlook.com ,0101 673 1804,Gizah,18-2-2025,26.0,"12,317"
+1341,Mohamed  Hassan,Mohamed.Hassan71gmail.com,0113-4140174,,2025-11-10,6.0,"11,418"
+1279,Sara Hassan, Sara.Hassan95@gmail.com ,015542198,Aswan,20/03/2025,,
+1318,  karim MOSTAFA ,Karim.Mostafa84@gmail.com,+201511095373,alexandria,2025-01-06,,23268
+1254,Laila Hassan,Laila.Hassan25gmail.com,0100 052 6505,,2025-10-05,28.0,6033
+1298,Youssef Ali,Youssef.Ali42outlook.com,01501272222,TANTA,13-9-2025,20.0,"23,457"
+1308,Sara  Nabil, Sara.Nabil79@gmail.com ,0110 202 4495,,18-7-2025,19.0,"EGP 3,672"
+2035,HASSAN KHALED,,0103-8515341,Giza,13/02/2025,,24548 EGP
+1276,Hassan Samir,,012351680,Aswan,22/09/2025,30.0,
+1084,  omar ALI ,Omar.Ali42gmail.com,01039957689,Tanta,27-2-2025,,"EGP 24,127"
+1093,Ahmed Mostafa,,01030663810,,21/08/2025,26.0,
+1046,Mona Mostafa,,+201021661568,Giza,2025-11-07,,"3,490"
+1291,Omar Samir,Omar.Samir73@gmail.com,0158 140 6021,,2025-03-26,13.0,"EGP 3,430"
+1047,Youssef  Adel,,0104-5354718,Mansoura,17/04/2025,,
+1274,  ahmed NABIL ,Ahmed.Nabil44@outlook.com,0157-6849003,mansoura,9-9-2025,,
+2031,  OMAR IBRAHIM ,Omar.Ibrahim14@yahoo.com,+201153342871,Aswan,2025-09-16,,"8,188"
+1016,Youssef Ibrahim, Youssef.Ibrahim49@outlook.com ,0101 336 1485,,2025-12-28,12.0,"10,897"
+1306,  tarek NABIL ,Tarek.Nabil39outlook.com,015833235,Aswan,24/01/2025,5.0,
+1371,  omar HASSAN , Omar.Hassan88@gmail.com ,012283202,GIZA,14-3-2025,1.0,4408 EGP
+1059,Hassan  Nabil, Hassan.Nabil38@outlook.com ,+201537843478,Cairo,20/10/2025,9.0,
+2020,  OMAR IBRAHIM ,Omar.Ibrahim9@gmail.com,01143953656,,02/06/2025,,
+1323,  salma KHALED ,SALMA.KHALED71@GMAIL.COM,0113 827 4084,Mansoura,2025-09-04,3.0,"EGP 15,241"
+1060,Sara Khaled,SARA.KHALED74@YAHOO.COM,015687401,Tanta,18-11-2025,26.0,20132
+1408,Laila Farouk,Laila.Farouk20outlook.com,+201118846515,,2025-04-09,,7934 EGP
+1040,Sara Mostafa, Sara.Mostafa76@gmail.com ,0117-2462488,,16/05/2025,,
+2006,  MONA KHALED ,MONA.KHALED91@OUTLOOK.COM,01094773650,,2025-03-16,8.0,"EGP 13,555"
+1210,Mohamed Khaled, Mohamed.Khaled24@yahoo.com ,0120 537 7382,Giza,24-2-2025,4.0,7649
+1026,Omar Nabil, Omar.Nabil46@outlook.com ,0123-6928168,Cairo,7-11-2025,,9144 EGP
+1264,  mona ADEL ,MONA.ADEL84@OUTLOOK.COM,012900508,Giza,19-12-2025,,"9,805"
+1402,Omar  Ali, Omar.Ali84@outlook.com ,01068585168,Giza,2025-02-17,16.0,
+1085,  nour NABIL ,,0154-9090528,Mansoura,9-6-2025,,"EGP 17,508"
+1062,  tarek HASSAN ,TAREK.HASSAN97@OUTLOOK.COM,0103-6821684,,2025-07-03,22.0,17294
+1052,  youssef NABIL , Youssef.Nabil56@gmail.com ,015605049,tanta,25/06/2025,29.0,
+1372,  omar IBRAHIM ,Omar.Ibrahim75gmail.com,0112-2015842,Cairo,18-4-2025,6.0,"4,501"
+1243,Salma Khaled,,,Aswan,07/08/2025,,10328
+1411,  karim NABIL ,,01112149493,Giza,04/04/2025,12.0,
+1012,  omar HASSAN , Omar.Hassan19@outlook.com ,+201573564363,Alexandria,8-7-2025,,24899 EGP
+1018,Sara  Nabil, Sara.Nabil38@outlook.com ,0114-2884973,aswan,4-9-2025,,"EGP 10,413"
+1068,Hassan Khaled,,0103-8515341,Giza,13/02/2025,,24548 EGP
+2032,  LAILA NABIL ,Laila.Nabil36gmail.com,0112 302 8432,Alexandria,2025-02-05,,8871 EGP
+2028,  SALMA IBRAHIM ,SALMA.IBRAHIM63@GMAIL.COM,012709453,TANTA,24-10-2025,,
+1097,  tarek FAROUK ,Tarek.Farouk68@outlook.com,,Giza,11/07/2025,7.0,16368 EGP
+1069,  nour ADEL ,NOUR.ADEL91@YAHOO.COM,011538156,,23-5-2025,10.0,"EGP 6,816"
+1107,Salma Khaled, Salma.Khaled21@gmail.com ,+201214941350,alexandria,9-9-2025,,22786 EGP
+1005,Mohamed Farouk, Mohamed.Farouk1@yahoo.com ,01599102374,Mansoura,11/10/2025,13.0,"7,104"
+1385,Youssef Ali,Youssef.Ali90gmail.com,015891629,Alexandria,10-12-2025,,15735 EGP
+1103,  tarek ALI , Tarek.Ali89@outlook.com ,0128-2124760,Mansoura,7-7-2025,,"EGP 3,378"
+1296,  sara MOSTAFA ,Sara.Mostafa46@outlook.com,,Aswan,10-8-2025,,"EGP 8,492"
+1409,Salma  Nabil, Salma.Nabil45@outlook.com ,011631819,Cairo,27/12/2025,17.0,
+1213,  omar SAMIR ,Omar.Samir94outlook.com,015868581,Giza,25/05/2025,,8320 EGP
+2007,LAILA  KHALED,Laila.Khaled97gmail.com,0156-1341636,Giza,2025-01-27,,20823
+1391,Nour  Khaled,Nour.Khaled55outlook.com,01598986997,Tanta,17-11-2025,,"10,038"
+1238,Karim Mostafa,,+201061111763,,19-10-2025,,
+2025,  SALMA ALI ,,+201274630256,CAIRO,26/07/2025,,2223
+1135,Omar  Khaled,OMAR.KHALED64@YAHOO.COM,012621907,,2025-08-19,,"EGP 21,934"
+1094,  salma KHALED , Salma.Khaled48@gmail.com ,01029471672,Giza,28/06/2025,27.0,24507
+1160,Mohamed  Samir,,0157-4463162,Cairo,06/10/2025,,"19,972"
+1281,Mona Adel,Mona.Adel87yahoo.com,,Mansoura,2025-01-28,,21636 EGP
+1399,Nour Saleh,NOUR.SALEH57@OUTLOOK.COM,+201026815672,Cairo,2025-02-21,,"EGP 12,406"
+1002,Karim Hassan,KARIM.HASSAN8@GMAIL.COM,0159-3834701,Aswan,09/11/2025,18.0,15402 EGP
+1038,Hassan Adel, Hassan.Adel64@yahoo.com ,01061780850,Tanta,2025-07-14,8.0,13654 EGP
+1120,  hassan HASSAN ,Hassan.Hassan6yahoo.com,0129-5252999,Gizah,18-7-2025,,"EGP 22,735"
+1125,  mona KHALED ,MONA.KHALED91@OUTLOOK.COM,01094773650,,2025-03-16,8.0,"EGP 13,555"
+1164,Salma Saleh,Salma.Saleh13gmail.com,01247039573,Mansoura,2025-02-14,3.0,"EGP 9,727"
+1319,Hassan Ali,HASSAN.ALI95@OUTLOOK.COM,01050537711,Alexandria,2025-09-25,12.0,15345
+1200,Laila  Mostafa,LAILA.MOSTAFA32@OUTLOOK.COM,0123-6230351,Aswan,28-3-2025,10.0,
+1112,  nour HASSAN , Nour.Hassan76@outlook.com ,+201101144060,Aswan,23-3-2025,17.0,
+1337,Mohamed  Ali,,,Giza,05/02/2025,10.0,"14,632"
+1167,Mohamed Mostafa,Mohamed.Mostafa21@yahoo.com,0129-5156078,Tanta,2025-02-07,,"15,448"
+1222,Nour  Ibrahim,,01510595695,,03/08/2025,,
+1390,Hassan Mostafa,Hassan.Mostafa23yahoo.com,0111-1529659,Cairo,2025-10-21,,16426
+1003,Tarek Saleh,Tarek.Saleh66@yahoo.com,0126-1003307,Alexandria,13/12/2025,3.0,13320
+1096,Youssef  Hassan, Youssef.Hassan58@gmail.com ,0112-9826991,,2025-01-08,26.0,4710
+1132,Hassan Ibrahim, Hassan.Ibrahim53@yahoo.com ,015686134,,22/11/2025,14.0,"EGP 24,284"
+1024,  youssef FAROUK , Youssef.Farouk56@gmail.com ,+201126755639,Aswan,2025-02-17,11.0,20975
+1004,Laila Saleh,Laila.Saleh40@yahoo.com,010007728,Alexandria,2025-04-24,,"4,610"
+1394,Karim  Hassan,Karim.Hassan49gmail.com,+201134464410,Cairo,02/10/2025,,14364 EGP
+1241,Sara  Farouk, Sara.Farouk59@gmail.com ,01229309339,,2025-09-23,,
+1395,  laila KHALED ,Laila.Khaled37@outlook.com,01599177107,Gizah,20-7-2025,,"EGP 4,575"
+2016,  MOHAMED KHALED , Mohamed.Khaled99@yahoo.com ,,,2025-01-03,17.0,"EGP 2,975"
+1029,Salma  Saleh,Salma.Saleh35outlook.com,,Mansoura,2025-06-03,,659
+1212,  omar HASSAN ,,0121-6565185,Alexandria,25/04/2025,,"EGP 16,329"
+1329,Hassan  Saleh,Hassan.Saleh6@yahoo.com,01280601089,,23/02/2025,3.0,"EGP 9,645"
+1262,Omar  Samir,OMAR.SAMIR44@OUTLOOK.COM,+201186970684,Cairo,2025-09-20,4.0,7762 EGP
+1134,Ahmed Nabil,,015448682,aswan,26-6-2025,17.0,24666 EGP
+1297,  nour IBRAHIM ,Nour.Ibrahim22@yahoo.com,0116 683 8057,,1-2-2025,14.0,13556
+1410,Sara Mostafa,Sara.Mostafa71gmail.com,+201275307082,Giza,22-12-2025,,"EGP 2,601"
+1252,Salma  Samir,Salma.Samir52yahoo.com,+201030356779,Mansoura,7-8-2025,,24371 EGP
+1143,Mohamed  Ali,,012181026,Gizah,19-7-2025,19.0,1474 EGP
+2014,TAREK KHALED,,0102 513 1083,,3-6-2025,,"EGP 2,204"
+1314,Salma Saleh,SALMA.SALEH89@GMAIL.COM,0114-4082166,Alexandria,2025-01-19,30.0,
+1157,  youssef IBRAHIM ,,011595141,CAIRO,26/07/2025,,
+1289,Omar  Farouk, Omar.Farouk44@yahoo.com ,01047414506,aswan,10/10/2025,,"EGP 16,166"
+1286,Youssef  Khaled,,01003515952,mansoura,28-4-2025,,11760
+1320,Hassan  Farouk,Hassan.Farouk27@yahoo.com,01176479236,Gizah,6-11-2025,23.0,"11,517"
+1146,Nour  Saleh,,0124 311 4236,Mansoura,2025-11-23,,
+1230,Mona Mostafa,MONA.MOSTAFA83@GMAIL.COM,01087414190,,24/03/2025,6.0,"15,155"
+1317,Sara  Khaled,Sara.Khaled24yahoo.com,015301405,Giza,18-11-2025,21.0,9779
+1247,Tarek  Ibrahim,Tarek.Ibrahim81@gmail.com,01074844228,aswan,10-11-2025,,
+1418,Mona  Nabil,Mona.Nabil96outlook.com,0127-9727346,GIZA,2025-03-11,10.0,
+1086,  sara NABIL ,,0101 844 1205,Aswan,26/09/2025,15.0,"6,325"
+1250,Mohamed Hassan, Mohamed.Hassan54@yahoo.com ,+201189539922,Alexandria,2025-08-07,18.0,480
+1155,Nour  Mostafa,Nour.Mostafa25outlook.com,,aswan,01/11/2025,8.0,3423
+1182,Mona  Ibrahim,Mona.Ibrahim76@gmail.com,012151508,mansoura,2025-08-26,,"20,308"
+1075,Salma  Farouk,Salma.Farouk82yahoo.com,+201192962942,ALEXANDRIA,13-4-2025,,6215 EGP
+2038,HASSAN MOSTAFA,Hassan.Mostafa23yahoo.com,0111-1529659,Cairo,2025-10-21,,16426
+2022,  OMAR HASSAN ,,0121-6565185,Alexandria,25/04/2025,,"EGP 16,329"
+1129,  tarek KHALED ,Tarek.Khaled35@outlook.com,0107-3408104,,20/12/2025,28.0,"EGP 2,190"
+1358,  karim MOSTAFA ,Karim.Mostafa3@gmail.com,0151 885 2805,Aswan,15/12/2025,21.0,"EGP 6,508"
+1021,Tarek  Ibrahim,,+201183899235,Tanta,20/06/2025,29.0,"17,835"
+1332,Salma Mostafa,Salma.Mostafa1gmail.com,0151-9817535,Alexandria,2025-07-23,,"16,631"
+1294,Hassan  Samir,HASSAN.SAMIR8@YAHOO.COM,0158-7733229,aswan,19-12-2025,,"21,922"
+1352,  sara IBRAHIM ,Sara.Ibrahim1yahoo.com,+201541343516,Alexandria,03/02/2025,,8980
+1098,  karim SAMIR ,Karim.Samir81yahoo.com,0157 656 5710,Cairo,2025-09-02,,12253
+1384,  salma IBRAHIM , Salma.Ibrahim23@yahoo.com ,0118-2846551,Alexandria,2025-03-03,,"20,018"
+2013,NOUR NABIL,,,Alexandria,10/05/2025,13.0,"22,413"
+1253,  nour NABIL ,,+201050359603,tanta,2025-05-22,25.0,3751 EGP
+1070,Nour Ali,Nour.Ali52@yahoo.com,015541005,,9-5-2025,29.0,19398 EGP
+1088,  sara SALEH ,,0103 853 8660,,11-12-2025,9.0,16229
+1115,Tarek Ibrahim,Tarek.Ibrahim32@outlook.com,+201068255116,Tanta,26-7-2025,26.0,"14,670"
+1330,Nour  Samir, Nour.Samir69@gmail.com ,,Alexandria,5-4-2025,10.0,"17,221"
+1392,Tarek Hassan, Tarek.Hassan54@yahoo.com ,01049745249,Cairo,2025-12-22,27.0,5537 EGP
+1338,Omar Ibrahim,Omar.Ibrahim63@outlook.com,0101 630 7646,Alex,13-2-2025,,"8,305"
+1197,Omar  Khaled, Omar.Khaled74@outlook.com ,015129142,Aswan,14-6-2025,,6745 EGP
+1168,Laila Khaled, Laila.Khaled53@yahoo.com ,012071829,,19/09/2025,1.0,15351
+1105,Tarek Farouk,TAREK.FAROUK90@YAHOO.COM,01041463369,ALEXANDRIA,06/09/2025,,"EGP 11,697"
+1383,Tarek  Farouk,Tarek.Farouk56gmail.com,010124513,,18/10/2025,,
+2034,HASSAN  SALEH,Hassan.Saleh6@yahoo.com,01280601089,,23/02/2025,3.0,"EGP 9,645"
+1078,  nour ALI , Nour.Ali3@yahoo.com ,012531735,Giza,2025-01-05,,"EGP 9,171"
+1193,Ahmed Samir,,0110-3271597,Cairo,2025-02-21,,"EGP 2,255"
+1055,  omar HASSAN ,,+201203557028,,2025-09-21,7.0,"6,966"
+1020,Mohamed  Ibrahim,MOHAMED.IBRAHIM4@YAHOO.COM,0110-4553971,Mansoura,2025-12-19,,"6,560"
+2012,OMAR  ALI, Omar.Ali84@outlook.com ,01068585168,Giza,2025-02-17,16.0,
+1179,Youssef  Nabil,Youssef.Nabil45outlook.com,01103131148,Aswan,9-8-2025,,4443
+1258,Youssef  Saleh, Youssef.Saleh11@yahoo.com ,0117 577 9965,tanta,2025-06-26,27.0,"19,425"
+1256,Mona Samir,Mona.Samir2@outlook.com,0104-5877180,Giza,2025-10-28,,21746 EGP
+1216,Mohamed Samir,Mohamed.Samir75@gmail.com,,Aswan,05/01/2025,,
+1379,Tarek  Nabil,Tarek.Nabil91gmail.com,011288206,Mansoura,27/10/2025,19.0,"21,591"
+1194,  mona HASSAN ,MONA.HASSAN83@OUTLOOK.COM,0158 027 2735,,02/04/2025,,"EGP 4,915"
+1131,  sara IBRAHIM ,Sara.Ibrahim76@yahoo.com,0156 340 1473,TANTA,2025-11-14,,920
+1419,Sara Khaled,SARA.KHALED22@GMAIL.COM,,Aswan,2025-02-24,23.0,"EGP 24,959"
+1101,  mohamed FAROUK ,Mohamed.Farouk43gmail.com,,Giza,1-12-2025,30.0,9554 EGP
+1172,  ahmed NABIL ,Ahmed.Nabil12@yahoo.com,0128 125 3317,Mansoura,3-8-2025,,
+1398,Hassan  Saleh,,0126-5798032,Cairo,5-4-2025,,
+1346,Nour  Farouk,,0101 090 8979,CAIRO,19/05/2025,4.0,"EGP 20,593"
+1417,  youssef ALI ,Youssef.Ali54@yahoo.com,0115-0101541,Al Qahira,2025-04-17,25.0,13067
+1144,  karim MOSTAFA ,,+201299003391,,2025-05-11,29.0,
+1347,Tarek  Khaled,Tarek.Khaled15yahoo.com,01129280161,Giza,08/08/2025,,EGP 458
+1310,Mohamed  Ali,Mohamed.Ali56@outlook.com,+201243110954,Cairo,26/04/2025,7.0,
+1203,  omar SALEH , Omar.Saleh64@outlook.com ,01585926711,alexandria,19-6-2025,28.0,
+1201,Laila  Mostafa,Laila.Mostafa77gmail.com,01209687729,,8-12-2025,9.0,10430
+1149,Tarek Hassan,TAREK.HASSAN19@YAHOO.COM,01521025909,Alexandria,2025-04-10,,"1,130"
+1269,Mona  Hassan,MONA.HASSAN32@GMAIL.COM,,Tanta,18/09/2025,30.0,"23,948"
+1122,  laila HASSAN ,,01570204870,Tanta,2025-05-26,,3147 EGP
+1137,Sara Mostafa,Sara.Mostafa11@outlook.com,0109 045 3955,CAIRO,28/04/2025,,EGP 885
+2033,MONA KHALED,MONA.KHALED21@GMAIL.COM,,,14-1-2025,25.0,5855 EGP
+1407,Karim  Ibrahim,KARIM.IBRAHIM49@GMAIL.COM,0122-3570524,Cairo,26-4-2025,,13476
+1058,  karim ALI ,KARIM.ALI97@GMAIL.COM,0102-2097960,giza,2025-01-06,,
+1195,  youssef NABIL ,Youssef.Nabil36yahoo.com,0109 892 8981,giza,03/08/2025,16.0,
+1271,  ahmed MOSTAFA ,,011395661,,22/07/2025,,20541
+1359,Laila Hassan, Laila.Hassan55@yahoo.com ,,Cairo,13/05/2025,,"19,052"
+1064,  youssef FAROUK ,YOUSSEF.FAROUK49@GMAIL.COM,0117-3639747,GIZA,21-8-2025,,"8,276"
+1071,Laila  Nabil,Laila.Nabil44@yahoo.com,0159-6141776,Mansoura,2025-01-26,,20756
+1335,Youssef  Hassan,Youssef.Hassan77@gmail.com,,El Mansoura,2025-11-09,15.0,6846
+1272,Tarek  Adel,,012369775,,19-12-2025,29.0,4718
+1374,  omar IBRAHIM , Omar.Ibrahim74@outlook.com ,011535893,giza,12/10/2025,,8778 EGP
+1267,Mohamed Samir,Mohamed.Samir93@outlook.com,0103-7477630,,2025-02-14,28.0,18936
+1393,Mona Khaled,MONA.KHALED88@YAHOO.COM,,giza,2025-09-12,12.0,"18,843"
+1345,Mohamed  Mostafa,Mohamed.Mostafa45@yahoo.com,012636239,GIZA,20-12-2025,,13723
+1170,  nour NABIL , Nour.Nabil48@yahoo.com ,01595081635,Cairo,2025-02-11,12.0,5248
+1037,  mohamed KHALED ,Mohamed.Khaled70gmail.com,012102163,aswan,25/06/2025,,24351
+1244,  hassan ADEL ,HASSAN.ADEL19@OUTLOOK.COM,01040477098,Cairo,12-12-2025,16.0,"EGP 13,932"
+1083,Mona Farouk,Mona.Farouk52@outlook.com,0110-2519195,Cairo,08/08/2025,14.0,
+1261,Mona Nabil, Mona.Nabil89@yahoo.com ,0154-9037551,Cairo,10-12-2025,25.0,"16,788"
+1420,Hassan  Adel,HASSAN.ADEL93@OUTLOOK.COM,,Aswan,10-1-2025,27.0,"22,027"
+1023,  salma IBRAHIM ,Salma.Ibrahim14@gmail.com,,Cairo,2025-08-03,,"6,411"
+1309,  mona FAROUK ,Mona.Farouk86@gmail.com,011055130,Alexandria,2025-10-02,19.0,"EGP 13,465"
+2010,  OMAR SAMIR ,Omar.Samir63gmail.com,011628291,giza,23-11-2025,,
+1240,  mohamed ADEL , Mohamed.Adel66@outlook.com ,0126 079 7226,Giza,2025-11-02,,
+1221,  sara FAROUK ,Sara.Farouk23@gmail.com,,tanta,10/02/2025,9.0,12829 EGP
+1014,  laila SALEH , Laila.Saleh40@outlook.com ,,Aswan,21-9-2025,,"EGP 13,477"
+1355,  omar KHALED ,OMAR.KHALED98@OUTLOOK.COM,+201003874998,,2025-10-18,9.0,"13,426"
+1161,Ahmed Samir, Ahmed.Samir70@outlook.com ,01229435637,Giza,2025-02-17,8.0,
+1073,Omar Adel,OMAR.ADEL41@OUTLOOK.COM,0115 979 4564,Cairo,22-12-2025,16.0,"6,497"
+1178,  mohamed NABIL , Mohamed.Nabil71@outlook.com ,,Giza,8-9-2025,8.0,"EGP 11,128"
+1277,  mohamed NABIL , Mohamed.Nabil71@gmail.com ,0155 846 6886,,16/05/2025,13.0,"11,542"
+1036,  laila FAROUK , Laila.Farouk25@outlook.com ,011217403,,19/03/2025,,"17,913"
+1327,Omar Saleh,OMAR.SALEH17@YAHOO.COM,0122 817 1729,Aswan,18/03/2025,,"3,157"
+1208,Salma  Ibrahim,Salma.Ibrahim25gmail.com,01202717025,Giza,02/11/2025,,17449
+1226,Tarek Saleh,TAREK.SALEH62@GMAIL.COM,+201004916754,,17/06/2025,,
+1121,Hassan  Nabil,HASSAN.NABIL80@OUTLOOK.COM,0118 962 5410,GIZA,2025-08-18,,5802 EGP
+1217,  salma NABIL ,Salma.Nabil74@outlook.com,0125 346 3886,,01/05/2025,,"EGP 22,406"
+1030,Omar  Ibrahim,,+201096713058,Cairo,12/02/2025,,19979
+1348,Laila  Samir,,+201111872370,Aswan,11-8-2025,,21394
+1189,  mohamed ALI ,MOHAMED.ALI8@YAHOO.COM,0124-3130202,aswan,14/10/2025,,"EGP 20,581"
+2003,  SARA FAROUK ,,01298608132,,2025-10-05,,"EGP 22,666"
+1326,Laila Khaled,,01084880611,mansoura,12-8-2025,,4510 EGP
+1181,  ahmed KHALED ,Ahmed.Khaled87gmail.com,+201567327781,TANTA,2025-01-13,27.0,2134
+1234,Mohamed Saleh,MOHAMED.SALEH39@YAHOO.COM,0103-0999881,mansoura,15-9-2025,,"EGP 14,983"
+1369,Salma Adel,Salma.Adel45@yahoo.com,012653357,Giza,2025-01-23,,"EGP 21,349"
+1166,Mona Farouk, Mona.Farouk39@yahoo.com ,010725128,ASWAN,23-12-2025,,"EGP 2,765"
+1127,  omar IBRAHIM ,Omar.Ibrahim9@gmail.com,01143953656,,02/06/2025,,
+2018,NOUR  FAROUK, Nour.Farouk89@gmail.com ,015234876,El Mansoura,2025-06-08,,"EGP 23,972"
+1265,  salma KHALED ,Salma.Khaled33yahoo.com,01087936380,alexandria,2025-09-26,27.0,"EGP 3,074"
+1065,  sara SAMIR ,Sara.Samir10gmail.com,01148693415,El Mansoura,24/03/2025,5.0,20547
+1387,Nour  Hassan, Nour.Hassan62@outlook.com ,,Aswan,21/12/2025,,9016
+1215,Youssef  Samir, Youssef.Samir78@gmail.com ,0128-9776997,Cairo,27-8-2025,12.0,"2,427"
+1403,  karim NABIL ,Karim.Nabil83@outlook.com,010573217,,19/03/2025,,13743
+1339,Mona  Ali, Mona.Ali17@outlook.com ,01180393255,Tanta,17/03/2025,,
+2004,YOUSSEF IBRAHIM, Youssef.Ibrahim49@outlook.com ,0101 336 1485,,2025-12-28,12.0,"10,897"
+1176,Laila  Saleh, Laila.Saleh75@outlook.com ,01160929427,Mansoura,21/12/2025,,"EGP 19,837"
+1173,Sara  Ali,Sara.Ali5gmail.com,0109-6163695,El Mansoura,2025-04-16,25.0,"EGP 13,922"
+1333,  tarek KHALED ,,0116 400 7335,,17/03/2025,13.0,19345
+1033,  salma IBRAHIM ,Salma.Ibrahim62yahoo.com,0111-1793764,tanta,2025-03-12,,"EGP 11,462"
+1032,Laila Saleh,LAILA.SALEH32@OUTLOOK.COM,010446090,Giza,2025-05-03,30.0,20791
+1233,  karim NABIL ,Karim.Nabil57yahoo.com,0112 734 5481,giza,26-1-2025,25.0,"EGP 19,902"
+1236,  hassan HASSAN ,HASSAN.HASSAN81@GMAIL.COM,0155 550 3165,Alexandria,01/10/2025,,"EGP 22,263"
+1375,Sara  Mostafa,SARA.MOSTAFA41@GMAIL.COM,0129 130 5425,,16/03/2025,,
+1188,  laila SAMIR ,Laila.Samir87gmail.com,0116-8844451,,2025-06-07,30.0,
+1174,Omar  Farouk, Omar.Farouk38@yahoo.com ,01505976149,ALEXANDRIA,10/01/2025,6.0,12295
+2001,MONA ADEL,MONA.ADEL31@GMAIL.COM,+201221250145,Al Qahira,04/10/2025,,12399
+1304,Laila  Samir,Laila.Samir7@outlook.com,0110 206 8626,Giza,8-3-2025,12.0,15013
+1039,Laila Farouk,,015414220,TANTA,2025-08-26,11.0,9179
+1266,  youssef ALI ,Youssef.Ali94@yahoo.com,0103-2830302,Cairo,13-11-2025,,1202
+2029,MOHAMED KHALED,MOHAMED.KHALED6@YAHOO.COM,0124-5531850,Mansoura,19-7-2025,,1574 EGP
+1015,  mohamed IBRAHIM ,Mohamed.Ibrahim33@gmail.com,01258889263,Giza,24/07/2025,,"6,068"
+1095,Mohamed  Adel,Mohamed.Adel72@outlook.com,0101 932 1884,mansoura,2025-06-25,,
+1017,Ahmed  Nabil,,,Alexandria,15/12/2025,19.0,"EGP 2,299"
+1342,Youssef Mostafa, Youssef.Mostafa13@yahoo.com ,01589948338,Al Qahira,27-9-2025,26.0,
+1218,Salma Mostafa,Salma.Mostafa88@yahoo.com,0118-1637542,Cairo,2025-05-25,,9974 EGP
+1290,  laila SAMIR ,Laila.Samir93gmail.com,011345881,Alexandria,2025-06-21,28.0,7853
+1079,Laila Ali,LAILA.ALI44@YAHOO.COM,,,09/10/2025,,16068
+1092,Laila Khaled,LAILA.KHALED53@YAHOO.COM,01251918173,Gizah,01/06/2025,,"EGP 12,917"
+1388,Omar Nabil,Omar.Nabil27@gmail.com,011292592,,2025-10-18,27.0,15301 EGP
+1184,  hassan HASSAN ,Hassan.Hassan41@yahoo.com,,aswan,19-4-2025,10.0,"EGP 24,586"
+1381,Mona Khaled,MONA.KHALED21@GMAIL.COM,,,14-1-2025,25.0,5855 EGP
+1324,Youssef Mostafa,Youssef.Mostafa17@yahoo.com,,El Mansoura,2025-02-10,,1622 EGP
+1268,Ahmed  Ali,AHMED.ALI39@GMAIL.COM,,Alexandria,23-9-2025,,21491
+1191,  sara ALI ,Sara.Ali88@gmail.com,01163931584,Giza,2025-03-15,,11870
+2027,AHMED  SAMIR,,+201170394809,Aswan,19/02/2025,24.0,"21,175"
+1110,Ahmed Ali,Ahmed.Ali25yahoo.com,011069288,Aswan,2025-11-06,,2213
+1365,Youssef  Mostafa,Youssef.Mostafa36gmail.com,0157 884 2642,Cairo,12/06/2025,,18614
+1357,Omar Khaled,Omar.Khaled8gmail.com,0110-9900397,aswan,25-2-2025,23.0,
+1136,Nour Hassan,NOUR.HASSAN39@OUTLOOK.COM,,Cairo,05/07/2025,21.0,12657 EGP
+1246,  hassan ALI , Hassan.Ali43@gmail.com ,012647130,Tanta,20/04/2025,29.0,
+1370,Nour Farouk, Nour.Farouk33@gmail.com ,0124-5825208,Alexandria,27-4-2025,8.0,7123 EGP
+1275,Tarek  Samir,Tarek.Samir85outlook.com,011669040,Tanta,01/10/2025,,"EGP 19,634"
+1148,Salma  Hassan, Salma.Hassan99@outlook.com ,0101-8023673,,13-10-2025,,"EGP 6,414"
+1106,Nour Nabil,Nour.Nabil24@outlook.com,01187572754,Cairo,2025-04-26,7.0,1349 EGP
+1295,Salma  Samir,Salma.Samir67yahoo.com,0109-3606600,,2025-02-22,,8926
+1325,  sara FAROUK , Sara.Farouk17@gmail.com ,0123 977 4476,,2025-05-15,21.0,
+1259,  karim MOSTAFA ,Karim.Mostafa28@gmail.com,+201511667517,tanta,2025-03-14,,8829 EGP
+1288,Salma  Saleh, Salma.Saleh53@yahoo.com ,0121-4128609,,04/05/2025,16.0,
+2019,  TAREK HASSAN ,TAREK.HASSAN97@OUTLOOK.COM,0103-6821684,,2025-07-03,22.0,17294
+1180,  mona ADEL ,Mona.Adel68outlook.com,01131065910,Aswan,2-7-2025,,"8,633"
+1362,Youssef Samir, Youssef.Samir15@gmail.com ,0119-9198282,TANTA,11-1-2025,,12091 EGP
+1165,Sara  Nabil,Sara.Nabil63yahoo.com,+201225991251,,2025-09-21,17.0,14563 EGP
+1111,Karim  Nabil,KARIM.NABIL14@YAHOO.COM,,Giza,5-5-2025,28.0,"EGP 2,778"
+1389,Salma  Khaled,SALMA.KHALED67@YAHOO.COM,+201221856849,,4-12-2025,19.0,12122 EGP
+1257,Tarek Adel,Tarek.Adel52@outlook.com,0124-1669928,,11-9-2025,,4530
+1315,Mohamed Saleh,MOHAMED.SALEH44@OUTLOOK.COM,0106 535 1744,Giza,10/03/2025,,17649
+1006,Mohamed  Ali,Mohamed.Ali82@gmail.com,0152 979 2622,Gizah,27-4-2025,8.0,
+1145,Laila Mostafa,LAILA.MOSTAFA93@GMAIL.COM,011027542,alexandria,2025-01-22,,"1,321"
+1104,  youssef FAROUK ,Youssef.Farouk66@yahoo.com,012256986,tanta,12-8-2025,,6823
+1211,Mohamed  Ali,Mohamed.Ali4gmail.com,+201178368301,Al Qahira,2025-02-17,,"EGP 5,024"
+1386,Sara Hassan,SARA.HASSAN69@OUTLOOK.COM,01100993804,Tanta,2025-02-16,,20535
+1042,Mona Saleh, Mona.Saleh82@outlook.com ,,Aswan,04/09/2025,,
+1363,Youssef Hassan,Youssef.Hassan82@outlook.com,,Cairo,2025-12-09,,"7,123"
+1138,  ahmed NABIL ,Ahmed.Nabil78outlook.com,0122-5762292,Aswan,20-6-2025,12.0,
+1378,Hassan  Samir,,0102 264 5728,,17/03/2025,,6989
+1255,Nour Adel,Nour.Adel78@yahoo.com,01112551938,,2025-07-18,,"10,553"
+1147,Tarek Adel,,+201010595856,Mansoura,21-10-2025,6.0,17598 EGP
+1126,  tarek MOSTAFA ,Tarek.Mostafa41yahoo.com,0105 500 4899,Aswan,2025-08-25,11.0,21428 EGP
+1087,Salma Hassan,SALMA.HASSAN63@YAHOO.COM,+201531708125,Mansoura,2025-02-11,,"EGP 18,386"
+1031,Youssef  Khaled,,0117 184 8954,Alexandria,22-10-2025,19.0,"9,706"
+2011,SARA  SALEH,Sara.Saleh47yahoo.com,01226851240,Tanta,2025-04-26,27.0,
+1066,  tarek ALI ,Tarek.Ali50@yahoo.com,010469370,Al Qahira,2025-10-05,,
+1204,Nour  Nabil,Nour.Nabil87outlook.com,0106 772 6895,Aswan,2025-03-01,6.0,
+1206,Hassan  Ibrahim, Hassan.Ibrahim35@yahoo.com ,0127 273 3736,Aswan,09/10/2025,,16176 EGP
+1045,Omar  Farouk,,0151-5449757,aswan,2025-02-04,20.0,"6,381"
+1028,Laila Nabil,Laila.Nabil71@outlook.com,0117 899 0676,Tanta,13-9-2025,,"EGP 12,845"
+1081,  sara NABIL ,Sara.Nabil69@outlook.com,,,17-6-2025,,"EGP 23,310"
+2017,AHMED IBRAHIM,AHMED.IBRAHIM23@OUTLOOK.COM,0128 788 3419,,9-10-2025,25.0,"20,268"
+1114,Nour Mostafa,,+201194989490,Giza,2025-05-08,,"11,107"
+1400,  karim IBRAHIM ,,0106-3366295,,27-2-2025,16.0,
+1205,Mona Khaled,,0152-5574198,Aswan,1-9-2025,,14892
+1008,Mona  Ibrahim, Mona.Ibrahim84@outlook.com ,0101 467 3002,mansoura,17-6-2025,5.0,"7,159"
+1209,Youssef  Khaled,Youssef.Khaled31@outlook.com,0127-1667332,Tanta,2025-08-09,19.0,15777 EGP
+1159,Tarek Hassan,TAREK.HASSAN62@GMAIL.COM,0113 572 9040,Cairo,05/12/2025,25.0,3915
+1113,Ahmed Adel,,015034095,Cario,12/11/2025,21.0,7386 EGP
+1412,Hassan  Ibrahim,,+201278833588,Giza,22-6-2025,,"EGP 2,428"
+2026,HASSAN  SAMIR,Hassan.Samir92yahoo.com,0113-8902077,Giza,15-1-2025,9.0,16003
+1232,Ahmed  Mostafa,Ahmed.Mostafa29yahoo.com,01219199787,Mansoura,14/08/2025,,15180
+1229,Karim  Nabil,KARIM.NABIL7@YAHOO.COM,0109-6271282,Alexandria,06/04/2025,,
+1009,  hassan MOSTAFA , Hassan.Mostafa85@outlook.com ,0124 009 1714,Mansoura,2025-03-03,,EGP 786
+1074,  laila IBRAHIM , Laila.Ibrahim91@gmail.com ,0104-1787029,Alexandria,02/08/2025,,2272
+1401,  hassan IBRAHIM ,,0107-6756069,ALEXANDRIA,20-6-2025,,7628 EGP
+1119,Sara  Mostafa, Sara.Mostafa4@yahoo.com ,010263003,Mansoura,03/11/2025,1.0,"9,432"
+1190,  omar IBRAHIM ,Omar.Ibrahim14@yahoo.com,+201153342871,Aswan,2025-09-16,,"8,188"
+1207,Laila  Mostafa,Laila.Mostafa88outlook.com,0154-9946766,GIZA,5-10-2025,,"EGP 14,435"
+1356,  tarek SAMIR , Tarek.Samir30@gmail.com ,+201243497853,Giza,11/12/2025,,
